@@ -3,10 +3,11 @@
 
 Overview
 Mobile Trend Insights is a data analysis project focused on exploring trends in mobile phone specifications, pricing, and features. Using SQL and Power BI, this project provides insights into:
--Popular mobile brands and their price ranges.
--Features driving market trends, such as 5G support.
--Comparative analysis of operating systems (Android vs. iOS).
--High-level visualizations to summarize and present data-driven findings.
+
+1. Popular mobile brands and their price ranges.
+2. Features driving market trends, such as 5G support.
+3. Comparative analysis of operating systems (Android vs. iOS).
+4. High-level visualizations to summarize and present data-driven findings.
 
 Key Features
 SQL Analysis: Comprehensive queries for extracting insights on mobile specifications, pricing, and brand performance.
