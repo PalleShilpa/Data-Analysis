@@ -1,4 +1,4 @@
-****Mobile Trend Insights********
+**Mobile Trend Insights**
 
 
 #Overview
